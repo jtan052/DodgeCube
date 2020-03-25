@@ -20,3 +20,7 @@ WASD movement and apply an adjustable force on the cube with each frame of the g
 
 The score displayed at the top of the game is a text object linked to the player's z-axis and displays the players movement along the 
 path.
+
+You may try the game under DodgeCubeGame > Builds > Windows > x86 > Dodgecube.exe
+
+Alternatively a video demonstration is available at https://youtu.be/A5Z338Z-DWk
